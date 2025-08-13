@@ -1,9 +1,9 @@
 list = [10, 25, "cat", "hello", 3.14, 2.71, True, False]
 
-integers = [x for x in list if type(x) == int]
-strings = [x for x in list if type(x) == str]
-floats = [x for x in list if type(x) == float]
-booleans = [x for x in list if type(x) == bool]
+integers = [a for a in list if type(a) == int]
+strings = [a for a in list if type(a) == str]
+floats = [a for a in list if type(a) == float]
+booleans = [a for a in list if type(a) == bool]
 
 print(integers)
 print(strings)
