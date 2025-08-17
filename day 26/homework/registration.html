@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration</title>
+
+    <style>
+ body {
+    background-color: black;
+    }
+
+    h2 {
+        color: aqua;
+    }
+
+    p {
+        color: aqua;
+    }
+
+    form {
+        color: aqua;
+    }
+
+    button {
+        color: aqua;
+    }
+    </style>
+</head>
+<body>
+    <center>
+
+
+    <h2>Registration</h2>
+
+    <form action="submit_registration.php" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="surname">Surname:</label><br>
+        <input type="text" id="surname" name = "Surname" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <label for="confirm">Confirm Password:</label><br>
+        <input type="password" id="confirm" name="confirm" required><br><br>
+        
+            <label for="country">Choose your country:</label><br>
+        <select id="country" name="country">
+            <option value="None" disabled selected>None</option>
+            <option value="ge">Georgia</option>
+            <option value="uk">United Kingdom</option>
+            <option value="ca">Canada</option>
+            <option value="au">Australia</option>
+            <option value="us">USA</option>
+        </select> <br><br>
+
+
+
+        <label for="card_number">Card Number:</label><br>
+        <input type="number" id="number" name = "card_number" required> <br> <br>
+        <br>
+        <label>
+            <input type="radio" name="gender" value="male" required>
+            Male
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="gender" value="female" required>
+            Female
+        </label><br><br>
+        <input type="submit" value="Register"><br><br>
+    </form>
+    </center>
+    <nav>
+        <a href="./contacts.html">Go to the contact page</a>
+        <a href="./homepage.html">Go to the home page</a>
+        <a href="./products.html">Go to the product page</a>
+    </nav>
+
+</body>
+</html>
