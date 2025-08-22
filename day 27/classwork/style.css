@@ -1,0 +1,12 @@
+div h1{
+    color: brown;
+}
+div p{
+    border: 0lvi;
+    color: chartreuse;
+}
+div img{
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
