@@ -28,7 +28,6 @@ print(number)
 place="Paris"
 print(place)
 
-
 #5
 #print(9 9)
 #გამორჩენილია +

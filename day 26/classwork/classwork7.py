@@ -3,5 +3,4 @@ def positive_sum(arr):
     for i in arr:
         if i > 0:
             sum += i
-    
     return sum  
