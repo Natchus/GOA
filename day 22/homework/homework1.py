@@ -1,0 +1,6 @@
+sent1=input("enter your sentence number one:")
+sent2=input("enter your sentence number two:")
+sent3=input("enter your sentence number three:")
+print(sent1.lower())
+print(sent2.upper())
+print(sent3.capitalize())

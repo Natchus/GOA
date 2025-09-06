@@ -1,0 +1,10 @@
+#parent{
+    width: 50%;
+    background-color: rgb(100, 40, 70);
+    height: 400px
+}
+#child{
+    width: 50%;
+    background-color: aqua;
+    height: 50%;
+}

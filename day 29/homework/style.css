@@ -1,0 +1,51 @@
+body{
+    background-color: lightblue;
+}
+#monet{
+    color: crimson;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 12px;
+    border: 3px solid skyblue;
+}
+#first{
+    color: green;
+    text-align: left;
+}
+#second{
+    color:brown;
+    text-align: left;
+}
+#third{
+    color: blue;
+    text-align: left;
+}
+#fourth{
+    color: orangered;
+    text-align: left;
+}
+#fifth{
+    color: seagreen;
+    text-align: left;
+}
+#sixth{
+    color: rosybrown;
+    text-align: left;
+}
+#seventh{
+    color: slateblue;
+    text-align: left;
+}
+.bio{
+    color: crimson;
+    text-align: center;
+}
+button{
+    border: 12px solid pink;
+    background-color: palevioletred;
+    border-radius: 12px;
+    color: darkblue;
+}
