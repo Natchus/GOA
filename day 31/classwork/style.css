@@ -1,0 +1,52 @@
+h1{
+    color: brown;
+    text-align: center;
+    text-shadow: 5px 5px 2px darkblue;
+}
+img{
+    width: 200px;
+    height: 50%;
+    border-radius: 23px;
+}
+.cats p{
+    color: crimson;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 2px;
+}
+.dogs p{
+    color: green;
+    text-align: justify;
+    text-decoration: overline;
+    text-decoration-color: palevioletred;
+    text-decoration-thickness: 2px;
+}
+.horses p{
+    color: burlywood;
+    text-align: justify;
+    text-decoration:dotted;
+    text-decoration-color: lightsalmon;
+    text-decoration-thickness: 2px;
+}
+.sharks p{
+    color: blue;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-color: lightblue;
+    text-decoration-thickness: 2px;
+}
+.rhinos p{
+    color: grey;
+    text-align: justify;
+    text-decoration: wavy;
+    text-decoration-color: hotpink;
+    text-decoration-thickness: 2px;
+}
+.chipmunks p{
+    color: gold;
+    text-align: justify;
+    text-decoration: overline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 2px;
+}

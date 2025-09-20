@@ -1,0 +1,29 @@
+#p1{
+    color: palevioletred;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    text-align: center;
+    text-shadow: 10px 5px 4px plum;
+}
+#p2{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: steelblue;
+    text-align: right;
+    text-shadow: 6px 5px 2px skyblue;
+}
+#p3{
+    color: orange;
+    text-decoration: underline;
+    text-decoration-color: goldenrod;
+    text-align: left;
+    text-shadow: 8px 5px 3px gold;
+}
+#p4{
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: crimson;
+    text-align: justify;
+    text-shadow: 12px -2px 5px rosybrown;
+}
+
