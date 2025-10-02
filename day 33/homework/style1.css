@@ -1,0 +1,15 @@
+td, 
+th{
+    border: 2px solid black;
+}
+th{
+    text-align: right;
+    background-color: yellow;
+}
+td{
+    text-align: left;
+}
+#nutsa{
+    text-align: center;
+    background-color: darksalmon;
+}

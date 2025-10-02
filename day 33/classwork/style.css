@@ -1,0 +1,28 @@
+h2:hover{
+    color: brown;
+    text-decoration: underline;
+}
+h2{
+    color: orangered;
+}
+img{
+    height: 250px;
+    width: auto;
+    border-radius: 12px;
+}
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    text-decoration-color: brown;
+    color: brown;
+}
+p{
+    color: orchid;
+    text-decoration: underline;
+}
+p:hover{
+    color: blueviolet;
+    text-decoration: overline;
+}

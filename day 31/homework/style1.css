@@ -1,6 +1,8 @@
 #name{
+    text-align: center;
     text-decoration: underline;
 }
 #surname{
+    text-align: center;
     text-decoration: overline;
 }

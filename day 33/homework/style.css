@@ -1,0 +1,26 @@
+h1{
+    font-family: cursive;
+    color: crimson;
+    text-decoration: overline;
+    text-align: center
+}
+body{
+    background-color: bisque;
+}
+p:hover{
+    color:maroon;
+    text-decoration: underline;
+}
+p{
+    color: red;
+    text-align: justify;
+}
+img{
+    border-radius: 14px;
+    height: 255px;
+    width:auto
+}
+h2{
+    color: blue;
+    font-family: serif;
+}
