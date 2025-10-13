@@ -1,0 +1,24 @@
+label{
+    font-family:Arial;
+    font-weight: bold;
+    color: orchid;
+}
+input[type="email"], input[type="password"] {
+    border: 2px solid palevioletred;
+    color: black;
+    border-radius: 12px;
+    background-color: hotpink;
+}
+input[type="text"]{
+    border: 2px solid hotpink;
+    color: rebeccapurple;
+    border-radius: 12px;
+    background-color: purple;
+}
+button{
+    border: 2px solid peru;
+    color: purple;
+    border-radius: 12px;
+    background-color: pink;
+}
+

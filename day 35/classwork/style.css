@@ -1,0 +1,15 @@
+ul{
+    list-style: circle outside none;
+    background-color: brown;
+    color: cornsilk;
+}
+h1{
+    font-family: serif;
+    color: brown;
+    font-size: larger;
+}
+ol{
+    list-style-type: decimal-leading-zero;
+    background-color: brown;
+    color: cornsilk;
+}
