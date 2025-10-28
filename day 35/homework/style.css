@@ -1,0 +1,28 @@
+body{
+    color: peachpuff
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: gold;
+    text-align: center;
+    color: goldenrod;
+    font-size: larger;
+    font-style: italic;
+}
+h2{
+    color: chocolate;
+    font-style: oblique;
+    font-size: large;
+}
+p{
+    font-style: normal;
+    font-size: medium;
+    color: brown;
+}
+img{
+    border-radius: 20px;
+    border-color: coral;
+    border-style: groove;
+    border-width: 10px;
+    height: 350px;
+}
