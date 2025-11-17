@@ -1,0 +1,12 @@
+#container{
+    padding: 20px;     /*content-ის გარშემო სივრცე */
+    border: 5px solid black;    /*ელემენტის გარშემო ხაზი */
+    margin: 30px;               /*ელემენტის გარეთ ცარიელი სივრცე*/
+    border: 5px solid black; 
+    margin: 30px;
+    width: 300px;
+    height: 200px;
+    background-color: blueviolet;
+}
+/* content არის მნიშვნელობა რაც ჩანს საიტზე */
+/* box model მთლიანობაში საჭიროა იმისთვის რომ დავინახოთ თუ რა ნაწილი უკავია ამა თუ იმ ელემენტს, და მის გარშემო სივრცეს საიტზე. */

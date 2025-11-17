@@ -1,0 +1,35 @@
+#box1{
+    padding: 17px;
+    margin: 12px;
+    border: 13px;
+    color: black;
+    background-color: green;
+}
+#box2{
+    padding: 12px;
+    margin: 35px;
+    border: 67px;
+    color: black;
+    background-color: red;
+}
+#box3{
+    padding: 45px;
+    margin: 34px;
+    border: 2px;
+    color: black;
+    background-color: yellow;
+}
+#box4{
+    padding: 23px;
+    margin: 65px;
+    border: 22px;
+    color: black;
+    background-color: brown;
+}
+#box5{
+    padding: 33px;
+    margin: 23px;
+    border: 67px;
+    color: black;
+    background-color: purple;
+}
