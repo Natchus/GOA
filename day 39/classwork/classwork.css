@@ -1,0 +1,47 @@
+*{
+   box-sizing: border-box; 
+}
+#grandparent{
+    display: flex;
+    justify-content: space-around;
+}
+.parent{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    background: whitesmoke;
+    border: 3px solid green;
+    gap: 20px;
+    justify-content: space-around;
+}
+.d{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    color:azure;
+    font-size: 28;
+    border: 3px solid blue;
+    font-weight: 30;
+    text-align: center;
+    padding-top: 20px;
+}
+#div1{
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+#div2{
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+#div3{
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+#div4{
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    padding-left: 20px;
+}
